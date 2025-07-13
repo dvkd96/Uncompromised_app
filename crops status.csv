@@ -1,0 +1,58 @@
+CropID,CropName,Initial Growth Years,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Week 14,Week 15,Week 16,Week 17,Week 18,Week 19,Week 20
+1,Rice (Paddy),0,Sowing/Germination,Seedling Emergence,Early Seedling,Vegetative Growth,Tillering,Tillering,Stem Elongation,Stem Elongation,Panicle Initiation,Booting,Heading,Flowering,Flowering,Milk Grain,Dough Grain,Ripening,Ripening,Maturity,Maturity,Harvest
+2,Wheat,0,Sowing/Germination,Seedling Emergence,Early Seedling,Tillering,Tillering,Stem Elongation,Stem Elongation,Booting,Heading,Flowering,Flowering,Grain Filling,Grain Filling,Maturation,Maturation,Maturity,Harvest Preparation,Harvest,,
+3,Maize,0,Sowing/Germination,Seedling Emergence,4-Leaf Stage,8-Leaf Stage,12-Leaf Stage,Tassel Visible,Female Flowering,Pollination,Early Grain Set,Milk Stage,Dough Stage,Hard Dough,Physiological Maturity,Drying Down,Maturity,Harvest,,,,
+4,Barley,0,Sowing/Germination,Seedling Growth,Tillering,Tillering,Stem Elongation,Booting,Ear Emergence,Flowering,Milk Development,Dough Development,Ripening,Ripening,Maturity,Harvest,,,,,,
+5,Jowar (Sorghum),0,Sowing/Germination,Seedling Emergence,Vegetative Growth,Vegetative Growth,Boot Stage,Boot Stage,Flowering,Flowering,Grain Fill,Grain Fill,Maturation,Maturation,Maturity,Maturity,Harvest Preparation,Harvest,,,,
+6,Bajra (Pearl Millet),0,Sowing/Germination,Emergence,3-Leaf Stage,5-Leaf Stage,Panicle Initiation,Flag Leaf Stage,Boot Stage,50% Flowering,Milk Stage,Dough Stage,Physiological Maturity,Maturity,Maturity,Harvest,,,,,,
+7,Mustard,0,Sowing/Germination,Seedling Stage,Seedling Stage,Vegetative Growth,Vegetative Growth,Vegetative Growth,Flower Bud Initiation,Flowering,Flowering,Pod Formation,Seed Filling,Seed Maturation,Maturity,Harvest,,,,,,
+8,Gram (Chickpea),0,Sowing/Germination,Seedling Establishment,Vegetative Growth,Vegetative Growth,Vegetative Growth,Branching,Flower Bud Formation,Flowering,Flowering,Pod Formation,Seed Development,Seed Development,Maturation,Maturation,Maturity,Harvest,,,,
+9,Lentil,0,Sowing/Germination,Seedling Emergence,Vegetative Growth,Vegetative Growth,Branching,Flower Bud Formation,Flowering,Flowering,Pod Formation,Seed Filling,Maturation,Maturation,Maturity,Harvest,,,,,,
+10,Pea,0,Sowing/Germination,Seedling Emergence,Vegetative Growth,Vegetative Growth,Flower Bud Formation,Flowering,Flowering,Pod Formation,Seed Filling,Maturation,Maturity,Harvest,,,,,,,,
+11,Pigeonpea,0,Sowing/Germination,Seedling Emergence,Vegetative Growth,Branching,Branching,Flower Bud Formation,Flowering,Flowering,Pod Formation,Pod Development,Seed Filling,Maturation,Maturity,Harvest,,,,,,
+12,Green gram,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flower Bud Formation,Flowering,Pod Formation,Seed Development,Maturation,Harvest,,,,,,,,,,,
+13,Black gram,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flower Bud Formation,Flowering,Pod Formation,Seed Development,Maturation,Harvest,,,,,,,,,,,
+14,Soybean,0,Sowing/Germination,Seedling/Emergence,Unifoliate Leaf,First Trifoliate Leaf,Vegetative Growth,Flowering,Pod Development,Seed Development,Maturation,Harvest,,,,,,,,,,
+15,Groundnut,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flowering,Pegging,Pod Development,Seed Filling,Maturation,Harvest,,,,,,,,,,,
+16,Sunflower,0,Sowing/Germination,Seedling Emergence,Vegetative Growth,Bud Formation,Flowering,Seed Development,Maturation,Harvest,,,,,,,,,,,,
+17,Cotton,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Square Formation,Flowering,Boll Development,Boll Opening,Harvest,,,,,,,,,,,,
+18,Potato,0,Sprout Development,Vegetative Growth,Tuber Growth,Tuber Bulking,Maturation,Harvest,,,,,,,,,,,,,,
+19,Tomato,0,Sowing/Germination,Cotyledon Unfolding,True Leaf Development,Side Shoot Formation,Flower Bud Formation,Flowering,Fruit Development,Ripening,Harvest,,,,,,,,,,,
+20,Brinjal,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flower Bud Formation,Flowering,Fruit Development,Ripening,Harvest,,,,,,,,,,,,
+21,Chilli,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flower Bud Formation,Flowering,Fruit Development,Ripening,Harvest,,,,,,,,,,,,
+22,Okra,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flower Bud Formation,Flowering,Fruit Development,Harvest,,,,,,,,,,,,,
+23,Onion,0,Sowing/Germination,Seedling/Emergence,Bulb Initiation,Bulb Growth,Maturation,Harvest,,,,,,,,,,,,,,
+24,Garlic,0,Sowing/Germination,Sprout Emergence,Vegetative Growth,Bulb Formation,Maturation,Harvest,,,,,,,,,,,,,,
+25,Cabbage,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Head Formation,Maturation,Harvest,,,,,,,,,,,,,,
+26,Cauliflower,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Curd Initiation,Curd Development,Maturation,Harvest,,,,,,,,,,,,,
+27,Broccoli,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Head Formation,Flowering,Maturation,Harvest,,,,,,,,,,,,,
+28,Carrot,0,Sowing/Germination,Seedling/Emergence,Root Initiation,Root Growth,Maturation,Harvest,,,,,,,,,,,,,,
+29,Radish,0,Sowing/Germination,Seedling/Emergence,Root Initiation,Root Growth,Maturation,Harvest,,,,,,,,,,,,,,
+30,Turnip,0,Sowing/Germination,Seedling/Emergence,Root Initiation,Root Growth,Maturation,Harvest,,,,,,,,,,,,,,
+31,Cucumber,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flowering,Fruit Development,Harvest,,,,,,,,,,,,,,
+32,Pumpkin,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flowering,Fruit Development,Maturation,Harvest,,,,,,,,,,,,,
+33,Gourds,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flowering,Fruit Development,Harvest,,,,,,,,,,,,,,
+34,Melons,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flowering,Fruit Development,Maturation,Harvest,,,,,,,,,,,,,
+35,Lettuce,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Head Formation,Maturation,Harvest,,,,,,,,,,,,,,
+36,Spinach,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Maturation,Harvest,,,,,,,,,,,,,,,
+37,Amaranth,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flowering,Seed Formation,Maturation,Harvest,,,,,,,,,,,,,
+38,Coriander,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flowering,Seed Formation,Maturation,Harvest,,,,,,,,,,,,,
+39,French bean,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flowering,Pod Formation,Maturation,Harvest,,,,,,,,,,,,,
+40,Cowpea,0,Sowing/Germination,Seedling/Emergence,Vegetative Growth,Flowering,Pod Formation,Maturation,Harvest,,,,,,,,,,,,,
+41,Mushroom,0,Spore Germination,Mycelium Growth,Pinhead Formation,Fruiting Body Development,Maturity,Harvest,,,,,,,,,,,,,,
+42,Banana,2,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+43,Papaya,1,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+44,Pineapple,2,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+45,Mango,3,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+46,Guava,2,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+47,Citrus,3,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+48,Pomegranate,2,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+49,Sapota,2,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+50,Coconut,5,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+51,Arecanut,5,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+52,Oil palm,5,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+53,Date palm,5,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+54,Tea,3,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest,Plucking/Harvest
+55,Coffee,3,Flower Induction,Flowering,Fruit Set,Fruit Development,Maturity,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest,Harvest
+56,Cassava,0,Planting,Vegetative Growth,Root Development,Maturity,Harvest,,,,,,,,,,,,,,,
+57,Tapioca,0,Planting,Vegetative Growth,Root Development,Maturity,Harvest,,,,,,,,,,,,,,,

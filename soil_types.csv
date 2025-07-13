@@ -1,0 +1,21 @@
+soil_id,name,color_origin,texture_structure,min_ph,max_ph,water_retention,nutrient_capacity,fertility_level,notes
+1,Red Soil,"Reddish, weathered igneous/metamorphic rocks","Sandy to clayey, often gravelly",5.5,6.5,Low,Low,Low-Moderate,"Acidic, low water retention, needs lime"
+2,Black Soil,"Deep black, volcanic (basalt)","Clayey, fine-grained, cracks",6.5,8,High,Very High,High,"Poor drainage, hard when dry"
+3,Alluvial Soil,"Light grey to brown, riverine deposits","Sandy loam to clayey, layered",6.5,7.5,Moderate-Good,Moderate,High,"Prone to erosion, variable fertility"
+4,Loam Soil,"Brown to dark, mixed mineral/organic origin","Balanced sand, silt, clay",6,7.5,Moderate,High,Very High,Ideal for most crops
+5,Clay Soil,"Brown to dark, sedimentary","Heavy, sticky, fine particles",6,7.5,High,Very High,High,"Waterlogged when wet, hard when dry"
+6,Sandy Soil,"Pale brown, weathered rock/sandstone","Coarse, gritty, loose",5.5,7,Low,Low,Low,"Dries quickly, low nutrient retention"
+7,Silty Soil,"Grey to brown, river estuaries","Fine, smooth, soft",6,7.5,Moderate-High,Moderate-High,High,"Compacts easily, erosion risk"
+8,Peaty Soil,"Dark brown to black, decomposed organic matter","Spongy, soft, high organic content",4.5,6,Very High,High,Moderate,"Acidic, needs liming, water management"
+9,Chalky Soil,"White to pale, limestone/chalk rock","Stony, light, alkaline",7.1,8.5,Low-Moderate,Low-Moderate,Moderate,"Alkaline, nutrient lock-up, stony soil"
+10,Murrum Soil,"Red-brown, lateritic, weathered hard rock","Gravelly, coarse, loose",5,6.5,Poor,Very Low,Very Low,"Unsuitable for farming, used as construction material"
+SOL001,Black Cotton Soil,Black (Volcanic Origin),Clay Heavy,6.5,8.5,Very High,High,Rich in nutrients; excellent for cotton sugarcane cereals
+SOL002,Red Soil,Red (Iron Oxide),Sandy Loam,5.5,7.5,Moderate,Moderate,Good drainage; suitable for millets pulses groundnut
+SOL003,Alluvial Soil,Brown/Grey (River Deposits),Loam,6.0,8.0,High,Very High,Most fertile; ideal for rice wheat sugarcane vegetables
+SOL004,Laterite Soil,Red/Brown (Weathered),Clay Lateritic,4.5,6.5,Low,Low,Acidic soil; good for cashew coconut tea coffee spices
+SOL005,Desert Soil,Sandy/Yellow,Sandy,7.0,8.5,Very Low,Very Low,Arid conditions; suitable for drought-resistant crops like bajra
+SOL006,Mountain Soil,Dark Brown,Loamy,5.0,7.0,Moderate,Moderate,High altitude soil; good for temperate fruits vegetables
+SOL007,Saline Soil,White Patches,Clay Saline,8.0,9.5,High,Low,Salt affected; needs special management for salt-tolerant crops
+SOL008,Sandy Loam,Light Brown,Sandy Loam,6.0,7.5,Moderate,Moderate,Well drained; good for root vegetables legumes
+SOL009,Clay Loam,Dark Brown,Clay Loam,6.5,7.8,High,High,Water retentive; excellent for rice wheat maize
+SOL010,Peat Soil,Dark Black,Organic Rich,4.0,6.0,Very High,Very High,High organic matter; ideal for vegetables fruits

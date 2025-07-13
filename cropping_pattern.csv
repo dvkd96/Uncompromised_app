@@ -1,0 +1,58 @@
+CropID,CropName,Best_Cropping_Pattern,Second_Best_Pattern,Reason
+1,Rice (Paddy),Inter,Relay,Intercropping with legumes improves soil fertility and yield; relay cropping utilizes residual moisture after rice harvest.
+2,Wheat,Inter,Relay,Intercropping with pulses or oilseeds increases land use efficiency; relay with summer crops maximizes seasonal productivity.
+3,Maize,Inter,Relay,Maize-legume intercropping enhances nitrogen fixation and yield stability; relay with pulses fits well in rainfed systems.
+4,Barley,Inter,Mono,Intercropping with peas or lentils provides mutual benefits; monocropping is simple and suitable for mechanization.
+5,Jowar (Sorghum),Inter,Mono,Intercropping with pulses improves soil health and pest control; monocropping is common in dryland areas.
+6,Bajra (Pearl millet),Inter,Mono,Intercropping with cowpea or green gram conserves moisture and boosts protein yield; monocropping is drought-resilient.
+7,Mustard,Inter,Relay,Intercropping with wheat or chickpea increases returns; relay with short-duration pulses is effective.
+8,Gram (Chickpea),Inter,Relay,Intercropping with cereals or oilseeds enhances yield; relay after rice or maize utilizes residual soil moisture.
+9,Lentil,Inter,Relay,Intercropping with cereals/oilseeds provides better yield; relay after rice or maize is common in Indo-Gangetic plains.
+10,Pea,Inter,Mono,Intercropping with wheat or barley increases land productivity; monocropping is easy for smallholders.
+11,Pigeonpea,Inter,Mono,"Intercropping with short-duration crops (mung, urad) is widely practiced; monocropping is suitable for long-duration types."
+12,Green gram,Inter,Mono,Intercropping with cereals or oilseeds increases returns; monocropping is suitable for quick harvest cycles.
+13,Black gram,Inter,Mono,Intercropping with maize or sorghum improves land use; monocropping is feasible for short-duration crops.
+14,Soybean,Inter,Mono,Intercropping with maize or pigeonpea improves nitrogen balance; monocropping is common in major soybean belts.
+15,Groundnut,Inter,Mono,Intercropping with cereals or castor increases income; monocropping is suitable for sandy soils.
+16,Sunflower,Mono,Inter,Grows best as a sole crop due to high light demand; limited intercropping with short legumes possible.
+17,Cotton,Inter,Mono,"Intercropping with legumes (mung, urad) improves soil fertility; monocropping is practiced for fiber quality."
+18,Potato,Inter,Mono,Intercropping with maize or onion increases returns; monocropping is common for mechanized harvest.
+19,Tomato,Inter,Mono,Intercropping with onion or marigold reduces pests; monocropping is suitable for intensive management.
+20,Brinjal,Inter,Mono,Intercropping with legumes or marigold reduces pest pressure; monocropping is feasible for market crops.
+21,Chilli,Inter,Mono,"Intercropping with onion, coriander, or groundnut reduces pest incidence; monocropping is common for large-scale production."
+22,Okra,Inter,Mono,Intercropping with short-duration pulses increases productivity; monocropping is easy to manage.
+23,Onion,Inter,Mono,"Intercropping with carrot, coriander, or tomato increases returns; monocropping is suitable for export markets."
+24,Garlic,Inter,Mono,Intercropping with tomato or spinach maximizes land use; monocropping is practiced for commercial harvest.
+25,Cabbage,Mono,Inter,Grows best as a sole crop due to space and nutrient needs; intercropping with lettuce or coriander is possible.
+26,Cauliflower,Mono,Inter,Best grown as a monocrop for uniformity; intercropping with spinach or coriander is practiced in kitchen gardens.
+27,Broccoli,Mono,Inter,Monocropping ensures quality heads; intercropping with lettuce or herbs is possible in small plots.
+28,Carrot,Inter,Mono,Intercropping with onion or radish improves land use; monocropping is common for mechanized harvest.
+29,Radish,Inter,Mono,Intercropping with carrot or spinach increases productivity; monocropping is easy for short cycles.
+30,Turnip,Inter,Mono,Intercropping with leafy greens or legumes is beneficial; monocropping is suitable for market supply.
+31,Cucumber,Inter,Mono,Intercropping with maize or beans provides support and improves yield; monocropping is suitable for trellised systems.
+32,Pumpkin,Inter,Mono,Intercropping with maize or beans is traditional; monocropping is used for large-scale production.
+33,Gourds,Inter,Mono,Intercropping with maize or pulses increases returns; monocropping is common in commercial cultivation.
+34,Melons,Mono,Inter,Monocropping ensures fruit quality and space; intercropping with short greens possible in early stages.
+35,Lettuce,Mono,Inter,Monocropping allows uniform harvest; intercropping with carrots or radish is possible in small gardens.
+36,Spinach,Mono,Inter,Monocropping ensures quality; intercropping with onion or carrot is possible.
+37,Amaranth,Mono,Inter,Monocropping for leafy harvest; intercropping with legumes or root crops in home gardens.
+38,Coriander,Inter,Mono,"Intercropping with onion, carrot, or spinach increases land use; monocropping is common for seed production."
+39,French bean,Inter,Mono,Intercropping with maize or potato improves yield; monocropping is suitable for bush types.
+40,Cowpea,Inter,Mono,"Intercropping with maize, sorghum, or cotton improves soil fertility; monocropping is practiced in dry areas."
+41,Mushroom,Mono,Inter,Grown best in controlled monoculture; intercropping not applicable except in integrated farming systems.
+42,Banana,Inter,Mono,"Intercropping with pineapple, ginger, or legumes in early years; monocropping for commercial plantations."
+43,Papaya,Inter,Mono,Intercropping with short-duration vegetables or legumes in initial years; monocropping as trees mature.
+44,Pineapple,Mono,Inter,Monocropping for uniform fruiting; intercropping with banana or ginger in early stages possible.
+45,Mango,Inter,Mono,Intercropping with legumes or vegetables in young orchards; monocropping as trees mature.
+46,Guava,Inter,Mono,Intercropping with vegetables or pulses in early years; monocropping for mature orchards.
+47,Citrus,Inter,Mono,Intercropping with legumes or vegetables in young orchards; monocropping for mature trees.
+48,Pomegranate,Inter,Mono,Intercropping with pulses or vegetables in early years; monocropping for established orchards.
+49,Sapota,Inter,Mono,Intercropping with legumes or vegetables in early years; monocropping for mature orchards.
+50,Coconut,Inter,Mono,"Intercropping with pineapple, banana, or tubers is highly profitable; monocropping is practiced in traditional systems."
+51,Arecanut,Inter,Mono,"Intercropping with black pepper, cocoa, or banana increases income; monocropping for traditional plantations."
+52,Oil palm,Inter,Mono,Intercropping with pineapple or banana in early years; monocropping for mature plantations.
+53,Date palm,Inter,Mono,Intercropping with vegetables or legumes in early years; monocropping as palms mature.
+54,Tea,Mono,Inter,Monocropping for uniform plucking and management; intercropping with shade trees or spices possible.
+55,Coffee,Mono,Inter,Monocropping for quality; intercropping with pepper or spices in agroforestry systems.
+56,Cassava,Inter,Mono,Intercropping with legumes or maize improves soil fertility and yield; monocropping for commercial starch production.
+57,Tapioca,Inter,Mono,Intercropping with groundnut or maize increases returns; monocropping is suitable for large-scale production.

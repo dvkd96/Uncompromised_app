@@ -1,0 +1,245 @@
+CropID,CropName,Maintenance_Step,TimingandStage,Irrigation_Schedule,Organic_Fertilizer_Schedule,Pest_Management
+1,Rice (Paddy),Puddling,June Last week (before transplant),Flood field before transplant,"FYM/compost 10 t/ha, 2-3 weeks before transplant",Neem cake 250 kg/ha at transplant; neem oil spray as needed
+1,Rice (Paddy),Transplanting,June First week,Maintain 10 cm water for 1st month after transplant,Green manure incorporated 4-6 weeks before transplant,As above
+1,Rice (Paddy),Weeding,"20 DAS, July Third week","Maintain 5-7 cm water, avoid water stress",Apply vermicompost tea as top dressing at tillering (20 DAS),As above
+1,Rice (Paddy),Field drainage,"90 DAS, September Third week",Drain field 2 weeks before harvest,No fertilizer application,As above
+1,Rice (Paddy),Harvest,Maturity,Stop irrigation 2 weeks before harvest,No fertilizer application,As above
+2,Wheat,Land preparation,Before sowing,Pre-sowing irrigation if needed,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+2,Wheat,Sowing,November Second week,"Irrigate at CRI (20-25 DAS), tillering, jointing, booting",Vermicompost 2-3 t/ha at sowing,As above
+2,Wheat,Weeding,"20 DAS, December First week","Irrigate at critical stages, especially CRI and booting",Panchagavya foliar spray at tillering,As above
+2,Wheat,Earthing up,"30 DAS, December Second week",As above,No additional fertilizer,As above
+2,Wheat,Harvest,Maturity,Stop irrigation 10-15 days before harvest,No fertilizer application,As above
+3,Maize,Land preparation,Before sowing,Pre-sowing irrigation if needed,"FYM/compost 5-10 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+3,Maize,Sowing,June First week,"Irrigate at knee-high, tasseling, silking, grain fill",Vermicompost 2 t/ha at sowing,As above
+3,Maize,Earthing up,"30 DAS, July First week",Increase irrigation at flowering,Panchagavya foliar spray at knee-high and tasseling,As above
+3,Maize,Staking,"40 DAS, July Second week",As above,No additional fertilizer,As above
+3,Maize,Detasseling,"60 DAS, July Fourth week",As above,No additional fertilizer,As above
+3,Maize,Weeding,As required,As above,No additional fertilizer,As above
+3,Maize,Harvest,Maturity,Stop irrigation at physiological maturity,No fertilizer application,As above
+4,Barley,Land preparation,Before sowing,Pre-sowing irrigation if needed,"FYM/compost 8-10 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+4,Barley,Sowing,November Second week,"Irrigate at tillering, booting",Vermicompost 2 t/ha at sowing,As above
+4,Barley,Weeding,"20 DAS, December First week",As above,Panchagavya foliar spray at tillering,As above
+4,Barley,Harvest,Maturity,Stop irrigation 10-15 days before harvest,No fertilizer application,As above
+5,Jowar,Thinning,"10 DAS, June Second week","Irrigate at booting, flowering","FYM/compost 7-10 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+5,Jowar,Weeding,"20 DAS, June Third week",As above,Panchagavya foliar spray at booting,As above
+5,Jowar,Earthing up,"30 DAS, June Fourth week",As above,No additional fertilizer,As above
+5,Jowar,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+6,Bajra,Thinning,"10 DAS, June Second week","Irrigate at booting, flowering","FYM/compost 7-10 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+6,Bajra,Weeding,"20 DAS, June Third week",As above,Panchagavya foliar spray at booting,As above
+6,Bajra,Earthing up,"30 DAS, June Fourth week",As above,No additional fertilizer,As above
+6,Bajra,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+7,Mustard,Thinning,"15 DAS, Nov 3rd week","Light irrigation after sowing, then at flowering & pod fill","FYM/compost 5-8 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+7,Mustard,Weeding,"20 DAS, Nov 4th week",Irrigate at flowering and pod fill,Panchagavya foliar spray at flowering,As above
+7,Mustard,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+8,Gram,Weeding,"20 DAS, Dec 1st week",Irrigate at flowering and pod fill,"FYM/compost 5-7 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+8,Gram,Nipping,"30 DAS, Dec 2nd week",As above,Panchagavya foliar spray at flowering,As above
+8,Gram,Remove apical bud,"35 DAS, Dec 3rd week",As above,No additional fertilizer,As above
+8,Gram,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+9,Lentil,Weeding,"20 DAS, Dec 1st week",Irrigate at flowering and pod fill,"FYM/compost 5-7 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+9,Lentil,Nipping,"30 DAS, Dec 2nd week",As above,Panchagavya foliar spray at flowering,As above
+9,Lentil,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+10,Pea,Staking,"20 DAS, Dec 1st week",Irrigate at flowering and pod fill,"FYM/compost 5-7 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+10,Pea,Weeding,"20 DAS, Dec 1st week",As above,Panchagavya foliar spray at flowering,As above
+10,Pea,Nipping,"30 DAS, Dec 2nd week",As above,No additional fertilizer,As above
+10,Pea,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+11,Pigeonpea,Thinning,"15 DAS, July 2nd week",Irrigate at flowering and pod fill,"FYM/compost 8-10 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+11,Pigeonpea,Weeding,"25 DAS, July 3rd week",As above,Panchagavya foliar spray at flowering,As above
+11,Pigeonpea,Earthing up,"40 DAS, Aug 1st week",As above,No additional fertilizer,As above
+11,Pigeonpea,Staking,"60 DAS, Aug 3rd week",As above,No additional fertilizer,As above
+11,Pigeonpea,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+12,Green gram,Thinning,"10 DAS, June 2nd week",Irrigate at flowering and pod fill,"FYM/compost 5-7 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+12,Green gram,Weeding,"20 DAS, June 3rd week",As above,Panchagavya foliar spray at flowering,As above
+12,Green gram,Nipping,"30 DAS, June 4th week",As above,No additional fertilizer,As above
+12,Green gram,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+13,Black gram,Thinning,"10 DAS, June 2nd week",Irrigate at flowering and pod fill,"FYM/compost 5-7 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+13,Black gram,Weeding,"20 DAS, June 3rd week",As above,Panchagavya foliar spray at flowering,As above
+13,Black gram,Nipping,"30 DAS, June 4th week",As above,No additional fertilizer,As above
+13,Black gram,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+14,Soybean,Thinning,"10 DAS, June 2nd week",Irrigate at flowering and pod fill,"FYM/compost 5-7 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+14,Soybean,Weeding,"20 DAS, June 3rd week",As above,Panchagavya foliar spray at flowering,As above
+14,Soybean,Earthing up,"30 DAS, July 1st week",As above,No additional fertilizer,As above
+14,Soybean,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+15,Groundnut,Thinning,"10 DAS, June 2nd week",Irrigate at pegging and pod fill,"FYM/compost 7-10 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+15,Groundnut,Weeding,"20 DAS, June 3rd week",As above,Panchagavya foliar spray at pegging,As above
+15,Groundnut,Earthing up,"30 DAS, July 1st week",As above,No additional fertilizer,As above
+15,Groundnut,Pegging,"40 DAS, July 2nd week",As above,No additional fertilizer,As above
+15,Groundnut,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+16,Sunflower,Thinning,"10 DAS, June 2nd week",Irrigate at flowering and seed fill,"FYM/compost 7-10 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+16,Sunflower,Weeding,"20 DAS, June 3rd week",As above,Panchagavya foliar spray at flowering,As above
+16,Sunflower,Earthing up,"30 DAS, July 1st week",As above,No additional fertilizer,As above
+16,Sunflower,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+17,Cotton,Thinning,"15 DAS, June 3rd week",Irrigate at flowering and boll formation,"FYM/compost 10 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+17,Cotton,Weeding,"25 DAS, July 1st week",As above,Panchagavya foliar spray at flowering,As above
+17,Cotton,Earthing up,"40 DAS, July 3rd week",As above,No additional fertilizer,As above
+17,Cotton,Topping,"60 DAS, Aug 2nd week",As above,No additional fertilizer,As above
+17,Cotton,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+18,Potato,Sowing,Oct 3rd week,Irrigate at tuber initiation and bulking,"FYM/compost 15-20 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+18,Potato,Earthing up,"30 DAP, Nov 3rd week",As above,Panchagavya foliar spray at bulking,As above
+18,Potato,Weeding,"20 DAP, Nov 1st week",As above,No additional fertilizer,As above
+18,Potato,Spraying for blight,Dec 2nd week,As above,No additional fertilizer,Neem oil/biopesticide as needed
+18,Potato,Harvest,Maturity,Stop irrigation 10-15 days before harvest,No fertilizer application,As above
+19,Tomato,Transplanting,June 3rd week,Irrigate at flowering and fruit set,"FYM/compost 10-15 t/ha, 2-3 weeks before transplant",Neem oil/biopesticide as needed
+19,Tomato,Staking,"30 DAP, July 3rd week",As above,No additional fertilizer,As above
+19,Tomato,Weeding,"20 DAP, July 1st week",As above,Panchagavya foliar spray at flowering,As above
+19,Tomato,Pruning,"45 DAP, Aug 1st week",As above,No additional fertilizer,As above
+19,Tomato,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+20,Brinjal,Transplanting,June 3rd week,Irrigate at flowering and fruit set,"FYM/compost 10-15 t/ha, 2-3 weeks before transplant",Neem oil/biopesticide as needed
+20,Brinjal,Staking,"30 DAP, July 3rd week",As above,No additional fertilizer,As above
+20,Brinjal,Weeding,"20 DAP, July 1st week",As above,Panchagavya foliar spray at flowering,As above
+20,Brinjal,Pruning,"45 DAP, Aug 1st week",As above,No additional fertilizer,As above
+20,Brinjal,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+21,Chilli,Transplanting,June 3rd week,Irrigate at flowering and fruit set,"FYM/compost 10-15 t/ha, 2-3 weeks before transplant",Neem oil/biopesticide as needed
+21,Chilli,Staking,"30 DAP, July 3rd week",As above,No additional fertilizer,As above
+21,Chilli,Weeding,"20 DAP, July 1st week",As above,Panchagavya foliar spray at flowering,As above
+21,Chilli,Pruning,"45 DAP, Aug 1st week",As above,No additional fertilizer,As above
+21,Chilli,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+22,Okra,Sowing,June 2nd week,Irrigate at flowering and pod formation,"FYM/compost 8-10 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+22,Okra,Thinning,"15 DAS, June 3rd week",As above,No additional fertilizer,As above
+22,Okra,Weeding,"20 DAS, June 4th week",As above,Panchagavya foliar spray at flowering,As above
+22,Okra,Topping,"40 DAS, July 2nd week",As above,No additional fertilizer,As above
+22,Okra,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+23,Onion,Transplanting,Oct 2nd week,Irrigate at bulb formation,"FYM/compost 15-20 t/ha, 2-3 weeks before transplant",Neem oil/biopesticide as needed
+23,Onion,Weeding,"20 DAP, Oct 4th week",As above,Panchagavya foliar spray at bulb formation,As above
+23,Onion,Earthing up,"30 DAP, Nov 2nd week",As above,No additional fertilizer,As above
+23,Onion,Harvest,Maturity,Stop irrigation 10-15 days before harvest,No fertilizer application,As above
+24,Garlic,Planting,Oct 2nd week,Irrigate at bulb formation,"FYM/compost 15-20 t/ha, 2-3 weeks before planting",Neem oil/biopesticide as needed
+24,Garlic,Weeding,"20 DAP, Oct 4th week",As above,Panchagavya foliar spray at bulb formation,As above
+24,Garlic,Earthing up,"30 DAP, Nov 2nd week",As above,No additional fertilizer,As above
+24,Garlic,Harvest,Maturity,Stop irrigation 10-15 days before harvest,No fertilizer application,As above
+25,Cabbage,Transplanting,July 1st week,Irrigate at head formation,"FYM/compost 20-25 t/ha, 2-3 weeks before transplant",Neem oil/biopesticide as needed
+25,Cabbage,Weeding,"20 DAP, July 3rd week",As above,Panchagavya foliar spray at head formation,As above
+25,Cabbage,Earthing up,"30 DAP, Aug 1st week",As above,No additional fertilizer,As above
+25,Cabbage,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+26,Cauliflower,Transplanting,July 1st week,Irrigate at curd formation,"FYM/compost 20-25 t/ha, 2-3 weeks before transplant",Neem oil/biopesticide as needed
+26,Cauliflower,Weeding,"20 DAP, July 3rd week",As above,Panchagavya foliar spray at curd formation,As above
+26,Cauliflower,Earthing up,"30 DAP, Aug 1st week",As above,No additional fertilizer,As above
+26,Cauliflower,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+27,Broccoli,Transplanting,July 1st week,Irrigate at head formation,"FYM/compost 20-25 t/ha, 2-3 weeks before transplant",Neem oil/biopesticide as needed
+27,Broccoli,Weeding,"20 DAP, July 3rd week",As above,Panchagavya foliar spray at head formation,As above
+27,Broccoli,Earthing up,"30 DAP, Aug 1st week",As above,No additional fertilizer,As above
+27,Broccoli,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+28,Carrot,Sowing,Oct 1st week,Irrigate at root development,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+28,Carrot,Thinning,"10 DAS, Oct 2nd week",As above,No additional fertilizer,As above
+28,Carrot,Weeding,"20 DAS, Oct 3rd week",As above,Panchagavya foliar spray at root development,As above
+28,Carrot,Earthing up,"30 DAS, Oct 4th week",As above,No additional fertilizer,As above
+28,Carrot,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+29,Radish,Sowing,Oct 1st week,Irrigate at root development,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+29,Radish,Thinning,"10 DAS, Oct 2nd week",As above,No additional fertilizer,As above
+29,Radish,Weeding,"20 DAS, Oct 3rd week",As above,Panchagavya foliar spray at root development,As above
+29,Radish,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+30,Turnip,Sowing,Oct 1st week,Irrigate at root development,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+30,Turnip,Thinning,"10 DAS, Oct 2nd week",As above,No additional fertilizer,As above
+30,Turnip,Weeding,"20 DAS, Oct 3rd week",As above,Panchagavya foliar spray at root development,As above
+30,Turnip,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+31,Cucumber,Sowing,June 2nd week,Irrigate at flowering and fruit set,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+31,Cucumber,Thinning,"10 DAS, June 3rd week",As above,No additional fertilizer,As above
+31,Cucumber,Weeding,"20 DAS, June 4th week",As above,Panchagavya foliar spray at flowering,As above
+31,Cucumber,Trellising,"25 DAS, July 1st week",As above,No additional fertilizer,As above
+31,Cucumber,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+32,Pumpkin,Sowing,June 2nd week,Irrigate at flowering and fruit set,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+32,Pumpkin,Thinning,"10 DAS, June 3rd week",As above,No additional fertilizer,As above
+32,Pumpkin,Weeding,"20 DAS, June 4th week",As above,Panchagavya foliar spray at flowering,As above
+32,Pumpkin,Training vines,"30 DAS, July 1st week",As above,No additional fertilizer,As above
+32,Pumpkin,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+33,Gourds,Sowing,June 2nd week,Irrigate at flowering and fruit set,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+33,Gourds,Thinning,"10 DAS, June 3rd week",As above,No additional fertilizer,As above
+33,Gourds,Weeding,"20 DAS, June 4th week",As above,Panchagavya foliar spray at flowering,As above
+33,Gourds,Trellising,"25 DAS, July 1st week",As above,No additional fertilizer,As above
+33,Gourds,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+34,Melons,Sowing,June 2nd week,Irrigate at flowering and fruit set,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+34,Melons,Thinning,"10 DAS, June 3rd week",As above,No additional fertilizer,As above
+34,Melons,Weeding,"20 DAS, June 4th week",As above,Panchagavya foliar spray at flowering,As above
+34,Melons,Training vines,"30 DAS, July 1st week",As above,No additional fertilizer,As above
+34,Melons,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+35,Lettuce,Sowing,Oct 2nd week,Irrigate at head formation,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+35,Lettuce,Thinning,"10 DAS, Oct 3rd week",As above,No additional fertilizer,As above
+35,Lettuce,Weeding,"20 DAS, Oct 4th week",As above,Panchagavya foliar spray at head formation,As above
+35,Lettuce,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+36,Spinach,Sowing,October Second week,Irrigate at leaf formation,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+36,Spinach,Thinning,"10 DAS, October Third week",As above,No additional fertilizer,As above
+36,Spinach,Weeding,"20 DAS, October Fourth week",As above,Panchagavya foliar spray at leaf formation,As above
+36,Spinach,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+37,Amaranth,Sowing,June Second week,Irrigate at leaf formation,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+37,Amaranth,Thinning,"10 DAS, June Third week",As above,No additional fertilizer,As above
+37,Amaranth,Weeding,"20 DAS, June Fourth week",As above,Panchagavya foliar spray at leaf formation,As above
+37,Amaranth,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+38,Coriander,Sowing,October Second week,Irrigate at leaf and seed formation,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+38,Coriander,Thinning,"10 DAS, October Third week",As above,No additional fertilizer,As above
+38,Coriander,Weeding,"20 DAS, October Fourth week",As above,Panchagavya foliar spray at leaf/seed formation,As above
+38,Coriander,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+39,French bean,Sowing,June Second week,Irrigate at flowering and pod formation,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+39,French bean,Thinning,"10 DAS, June Third week",As above,No additional fertilizer,As above
+39,French bean,Weeding,"20 DAS, June Fourth week",As above,Panchagavya foliar spray at flowering,As above
+39,French bean,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+40,Cowpea,Sowing,June Second week,Irrigate at flowering and pod formation,"FYM/compost 10-15 t/ha, 2-3 weeks before sowing",Neem oil/biopesticide as needed
+40,Cowpea,Thinning,"10 DAS, June Third week",As above,No additional fertilizer,As above
+40,Cowpea,Weeding,"20 DAS, June Fourth week",As above,Panchagavya foliar spray at flowering,As above
+40,Cowpea,Harvest,Maturity,Stop irrigation at maturity,No fertilizer application,As above
+41,Mushroom,Composting,May First week,Maintain humidity throughout,Supplement with gypsum and FYM at composting,"Monitor for fungal gnats, remove infested casing"
+41,Mushroom,Spawning,May Second week,As above,As above,As above
+41,Mushroom,Casing,May Third week,As above,As above,As above
+41,Mushroom,Harvesting,May Fourth week,As above,No fertilizer application,As above
+42,Banana,Desuckering,Monthly,Irrigate every 7-10 days,FYM 20-30 kg/plant in June and December,"Remove infected suckers, neem oil spray as needed"
+42,Banana,Propping,At flowering stage,As above,Panchagavya foliar spray at flowering,As above
+42,Banana,Bunch covering,At flowering,As above,No additional fertilizer,As above
+42,Banana,Manure application,June First week,As above,FYM as above,As above
+43,Papaya,Weeding,Monthly,Irrigate every 7-10 days in summer,FYM 10-15 kg/plant in June and December,Neem oil/biopesticide as needed
+43,Papaya,Pruning lower leaves,Quarterly,As above,No additional fertilizer,As above
+43,Papaya,Manure application,June First week,As above,FYM as above,As above
+43,Papaya,Mulching,November Second week,As above,No additional fertilizer,As above
+44,Pineapple,Weeding,Monthly,Irrigate every 7-10 days in summer,FYM 10-15 t/ha in June and December,Neem oil/biopesticide as needed
+44,Pineapple,Mulching,June Second week,As above,No additional fertilizer,As above
+44,Pineapple,Earthing up,August First week,As above,No additional fertilizer,As above
+44,Pineapple,Manure application,June First week,As above,FYM as above,As above
+45,Mango,Pruning after harvest,June First week,Irrigate at flowering and fruit set,FYM 50 kg/tree in June and December,Neem oil/biopesticide as needed
+45,Mango,Basin cleaning,January First week,As above,No additional fertilizer,As above
+45,Mango,Manure application,June First week,As above,FYM as above,As above
+45,Mango,Mulching,November Second week,As above,No additional fertilizer,As above
+46,Guava,Pruning after harvest,June First week,Irrigate at flowering and fruit set,FYM 20-30 kg/tree in June and December,Neem oil/biopesticide as needed
+46,Guava,Basin cleaning,January First week,As above,No additional fertilizer,As above
+46,Guava,Manure application,June First week,As above,FYM as above,As above
+46,Guava,Mulching,November Second week,As above,No additional fertilizer,As above
+47,Citrus,Pruning after harvest,June First week,Irrigate at flowering and fruit set,FYM 25-40 kg/tree in June and December,Neem oil/biopesticide as needed
+47,Citrus,Basin cleaning,January First week,As above,No additional fertilizer,As above
+47,Citrus,Manure application,June First week,As above,FYM as above,As above
+47,Citrus,Mulching,November Second week,As above,No additional fertilizer,As above
+48,Pomegranate,Pruning after harvest,June First week,Irrigate at flowering and fruit set,FYM 10-20 kg/tree in June and December,Neem oil/biopesticide as needed
+48,Pomegranate,Basin cleaning,January First week,As above,No additional fertilizer,As above
+48,Pomegranate,Manure application,June First week,As above,FYM as above,As above
+48,Pomegranate,Mulching,November Second week,As above,No additional fertilizer,As above
+49,Sapota,Pruning after harvest,June First week,Irrigate at flowering and fruit set,FYM 20-30 kg/tree in June and December,Neem oil/biopesticide as needed
+49,Sapota,Basin cleaning,January First week,As above,No additional fertilizer,As above
+49,Sapota,Manure application,June First week,As above,FYM as above,As above
+49,Sapota,Mulching,November Second week,As above,No additional fertilizer,As above
+50,Coconut,Basin cleaning,January First week,Irrigate every 7-10 days in summer,FYM 50 kg/palm in June and December,Neem oil/biopesticide as needed
+50,Coconut,Manure application,June First week,As above,FYM as above,As above
+50,Coconut,Mulching,November Second week,As above,No additional fertilizer,As above
+50,Coconut,Pruning dry leaves,December First week,As above,No additional fertilizer,As above
+51,Arecanut,Basin cleaning,January First week,Irrigate every 7-10 days in summer,FYM 10-15 kg/palm in June and December,Neem oil/biopesticide as needed
+51,Arecanut,Manure application,June First week,As above,FYM as above,As above
+51,Arecanut,Mulching,November Second week,As above,No additional fertilizer,As above
+51,Arecanut,Pruning dry leaves,December First week,As above,No additional fertilizer,As above
+52,Oil palm,Basin cleaning,January First week,Irrigate every 7-10 days in summer,FYM 50 kg/palm in June and December,Neem oil/biopesticide as needed
+52,Oil palm,Manure application,June First week,As above,FYM as above,As above
+52,Oil palm,Mulching,November Second week,As above,No additional fertilizer,As above
+52,Oil palm,Pruning dry leaves,December First week,As above,No additional fertilizer,As above
+53,Date palm,Basin cleaning,January First week,Irrigate every 7-10 days in summer,FYM 10-15 kg/palm in June and December,Neem oil/biopesticide as needed
+53,Date palm,Manure application,June First week,As above,FYM as above,As above
+53,Date palm,Mulching,November Second week,As above,No additional fertilizer,As above
+53,Date palm,Pruning dry leaves,December First week,As above,No additional fertilizer,As above
+54,Tea,Pruning,January First week,Irrigate at dry spells,FYM 10-15 t/ha in May,Neem oil/biopesticide as needed
+54,Tea,Weeding,April Second week,As above,No additional fertilizer,As above
+54,Tea,Mulching,May First week,As above,No additional fertilizer,As above
+54,Tea,Shade regulation,June Second week,As above,No additional fertilizer,As above
+55,Coffee,Pruning,February Second week,Irrigate at blossom and berry stages,FYM 10-15 t/ha in May,Neem oil/biopesticide as needed
+55,Coffee,Weeding,May First week,As above,No additional fertilizer,As above
+55,Coffee,Mulching,June Second week,As above,No additional fertilizer,As above
+55,Coffee,Shade regulation,July First week,As above,No additional fertilizer,As above
+56,Cassava,Sowing,March First week,Irrigate at root bulking,FYM/compost 10-15 t/ha at planting,Neem oil/biopesticide as needed
+56,Cassava,Weeding,"30 DAP, April First week",As above,Panchagavya foliar spray at bulking,As above
+56,Cassava,Earthing up,"60 DAP, May First week",As above,No additional fertilizer,As above
+56,Cassava,Mulching,"90 DAP, June First week",As above,No additional fertilizer,As above
+57,Tapioca,Sowing,March First week,Irrigate at root bulking,FYM/compost 10-15 t/ha at planting,Neem oil/biopesticide as needed
+57,Tapioca,Weeding,"30 DAP, April First week",As above,Panchagavya foliar spray at bulking,As above
+57,Tapioca,Earthing up,"60 DAP, May First week",As above,No additional fertilizer,As above
+57,Tapioca,Mulching,"90 DAP, June First week",As above,No additional fertilizer,As above

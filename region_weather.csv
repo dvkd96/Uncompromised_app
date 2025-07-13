@@ -1,0 +1,21 @@
+region_id,city_district,climate_zone,ann_rain_mm,kharif_min_rain_mm,kharif_max_rain_mm,zaid_min_rain_mm,zaid_max_rain_mm,rabi_min_rain_mm,rabi_max_rain_mm,avg_temp_kharif_c,avg_temp_zaid_c,avg_temp_rabi_c,max_temp_c,min_temp_c,avg_humidity_percent
+1,Jaisalmer,Hot Desert,256,116,174,2,4,8,12,38,42,19,50,-6,40
+2,Jaipur,Semi Arid Hot,600,420,630,8,12,16,24,37,38,19,49,-2,37
+3,Jodhpur,Hot Desert,360,260,390,8,12,12,18,18,41,21,49,8,40
+4,Bikaner,Hot Desert,290,204,306,8,12,6,10,38,41,19,43,8,40
+5,Barmer,Hot Desert,300,200,300,10,14,8,12,37,40,20,41,10,40
+6,Udaipur,Subtropical Monsoon,637,460,690,26,42,40,60,32,35,19,38,12,60
+7,Kota,Subtropical Monsoon,800,560,840,40,60,48,72,33,36,20,36,2,60
+8,Jhalawar,Subtropical Monsoon,900,640,960,48,72,64,96,32,35,18,32,18,65
+9,Sirohi,Mild Winter Hot Summer,1100,720,1080,56,84,64,96,25,28,15,28,15,65
+10,Jalore,Semi Arid Hot,440,328,492,16,24,28,42,36,38,20,36,10,50
+11,Ajmer,Semi Arid Hot,520,360,540,16,24,24,36,36,38,20,45,10,50
+12,Alwar,Semi Arid Hot,580,400,600,20,30,28,42,36,38,20,46,10,50
+13,Banswara,Subtropical Monsoon,900,640,960,40,60,56,84,31,34,19,34,16,65
+14,Baran,Subtropical Monsoon,850,600,900,40,60,56,84,32,35,18,35,16,65
+15,Bharatpur,Semi Arid Hot,620,432,648,20,30,28,42,37,39,20,45,12,50
+16,Bhilwara,Subtropical Monsoon,700,480,720,32,48,48,72,33,36,20,38,14,60
+17,Bundi,Subtropical Monsoon,750,520,780,36,54,52,78,33,35,19,37,15,60
+18,Chittorgarh,Subtropical Monsoon,800,560,840,40,60,64,96,32,35,18,36,15,65
+19,Hanumangarh,Hot Desert,250,160,240,4,6,12,18,39,42,20,48,8,40
+20,Nagaur,Hot Desert,350,240,360,12,18,20,30,37,40,20,42,10,45
